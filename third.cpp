@@ -3,5 +3,5 @@ using namespace std;
 
 int main() {
     cout << "It works for now";
-    cout << "And now some merge";
+    cout << "And now some conge";
 }
